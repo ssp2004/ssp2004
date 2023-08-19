@@ -8,8 +8,6 @@ I'm a passionate and dedicated backend engineer with a strong focus on building 
 - Backend Frameworks: Lavarel, Django, Node.Js.
 - Databases:  MySQL, PostgreSQL, MongoDB.
 - Cloud Technologies:  AWS, Azure, Google Cloud.
-- DevOps: Docker, Kubernetes, Jenkins
-- Testing and Quality Assurance:  Pytest, JUnit]
 
 ### Projects
 - Project 1: I created and managed the backend for a project called Mycountry i worked with a team of 3.
